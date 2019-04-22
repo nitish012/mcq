@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">mcq</string>
+    <string name="radioButton1">mayank</string>
+    <string name="radioButton2">sagar</string>
+    <string name="radioButton3">vaibhav</string>
+    <string name="radioButton4">rahul</string>
+    <string name="radioButton5">20</string>
+    <string name="radioButton6">40</string>
+    <string name="radioButton7">18</string>
+    <string name="radioButton8">21</string>
+    <string name="radioButton9">singham</string>
+    <string name="radioButton10">bahubali</string>
+    <string name="radioButton11">ddlj</string>
+    <string name="radioButton12">hero</string>
+
+    <string name="resulttext">result</string>
+</resources>
